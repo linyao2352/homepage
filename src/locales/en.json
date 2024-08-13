@@ -1,0 +1,49 @@
+{
+   "nav": {
+    "desc": "Please select language",
+    "en": "English",
+    "es": "Spanish",
+    "website": "democode.cn",
+    "tab1": "About the company",
+    "tab1_sub1": "Company Profile",
+    "tab1_sub2": "Company History",
+    "tab1_sub3": "Board members",
+    "tab1_sub4": "Management Team",
+    "tab2": "Recent activities",
+    "tab2_sub1": "Online activities",
+    "tab2_sub2": "Offline activities",
+    "tab3": "Resume submission",
+    "tab4": "Contact us"
+   },
+   "home": {
+    "introduction": {
+        "desc": "Our company has many years of industry experience, with innovation and excellent service quality as our core competitiveness, committed to providing customers with the highest quality products and services. As a leader in the industry, we always adhere to customer needs as the guide, and through continuous technological research and development and process improvement, our products have outstanding competitive advantages in the market."
+    },
+    "history": {
+        "desc": "This is the historical story page"
+    },
+    "member": {
+        "desc": "Member introduction: Our team is composed of numerous knowledgeable and talented professionals. For example, Dr. Wang is a renowned computer scientist who excels in big data analysis and artificial intelligence algorithm design. Mr. Zhang is an expert in the financial field with extensive investment experience, providing strong support for our team's asset management. In addition, there is Miss Chen, who is an excellent psychological counselor and skilled at helping team members relieve stress and maintain efficient work status. Each member is contributing their own strength to the common goal of the team."
+    },
+    "group": {
+        "desc": "Member introduction: Our team is composed of numerous knowledgeable and talented professionals. For example, Dr. Wang is a renowned computer scientist who excels in big data analysis and artificial intelligence algorithm design. Mr. Zhang is an expert in the financial field with extensive investment experience, providing strong support for our team's asset management. In addition, there is Miss Chen, who is an excellent psychological counselor and skilled at helping team members relieve stress and maintain efficient work status. Each member is contributing their own strength to the common goal of the team."
+    },
+    "online": {
+        "desc": "This is the online activity page"
+    },
+    "offline": {
+        "desc": "This is the offline activity page"
+    },
+    "deliver": {
+        "desc": "Sincerely invite to join us"
+    },
+    "contact": {
+        "desc": "Feel free to contact me via email or social media."
+    }
+   },
+   "footer": {
+    "copyright": "Copyright © 2020 democode.cn All Rights Reserved.",
+    "address": "address: Beijing, China",
+    "telephone": "telephone: 123-456-7890"
+   }
+}

@@ -1,0 +1,49 @@
+{
+    "nav": {
+        "desc": "Por favor, elija el idioma",
+        "en": "Inglés",
+        "es": "Español",
+        "website": "democode.cn",
+        "tab1": "Sobre la empresa",
+        "tab1_sub1": "Perfil de la empresa",
+        "tab1_sub2": "Historia de la empresa",
+        "tab1_sub3": "Miembros del Consejo de Administración",
+        "tab1_sub4": "Equipo Directivo",
+        "tab2": "Actividades recientes",
+        "tab2_sub1": "Actividades en línea",
+        "tab2_sub2": "Actividades fuera de línea",
+        "tab3": "Entrega de currículum",
+        "tab4": "Contáctanos"
+    },
+    "home": {
+     "introduction": {
+         "desc": "Nuestra empresa tiene muchos años de experiencia en la industria, con la innovación y la excelente calidad del servicio como competitividad central, dedicada a proporcionar a los clientes los mejores productos y servicios. Como líder de la industria, siempre nos adherimos a la orientación a las necesidades de los clientes, a través de la investigación y el desarrollo tecnológico continuos y la mejora de procesos, para que nuestros productos tengan una excelente ventaja competitiva en el mercado."
+     },
+     "history": {
+         "desc": "Esta es la página de historias históricas."
+     },
+     "member": {
+         "desc": "Introducción del miembro: nuestro equipo está compuesto por muchos profesionales eruditas y talentosos. Por ejemplo, el Dr. wang, un famoso informático, es bueno en análisis de Big data y diseño de algoritmos de inteligencia artificial. El Sr. Zhang es un experto en el campo financiero, con una rica experiencia en inversión, que proporciona un fuerte apoyo para la gestión de activos de nuestro equipo. Además, hay la señorita chen, que es una excelente Consejera psicológica y es buena para ayudar a los miembros del equipo a aliviar el estrés y mantener un Estado de trabajo eficiente. Cada miembro está contribuyendo a los objetivos comunes del equipo."
+     },
+     "group": {
+        "desc": "Introducción del miembro: nuestro equipo está compuesto por muchos profesionales eruditas y talentosos. Por ejemplo, el Dr. wang, un famoso informático, es bueno en análisis de Big data y diseño de algoritmos de inteligencia artificial. El Sr. Zhang es un experto en el campo financiero, con una rica experiencia en inversión, que proporciona un fuerte apoyo para la gestión de activos de nuestro equipo. Además, hay la señorita chen, que es una excelente Consejera psicológica y es buena para ayudar a los miembros del equipo a aliviar el estrés y mantener un Estado de trabajo eficiente. Cada miembro está contribuyendo a los objetivos comunes del equipo."
+     },
+     "online": {
+         "desc": "Esta es la página de eventos en línea."
+     },
+     "offline": {
+         "desc": "Esta es la página de actividades fuera de línea."
+     },
+     "deliver": {
+         "desc": "Sinceramente invitamos a unirnos"
+     },
+     "contact": {
+         "desc": "Póngase en contacto conmigo por correo electrónico o en las redes sociales en cualquier momento."
+     }
+    },
+    "footer": {
+     "copyright": "Derechos de autor © 2020 democode.cn Se reservan todos los derechos.",
+     "address": "irección: Beijing, China",
+     "telephone": "Teléfono: 123 - 456 - 7890"
+    }
+ }
